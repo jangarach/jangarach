@@ -10,7 +10,9 @@
   Hey there 👋
 </h1>
 </div>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/VDSiCHF1XmZgs5sRQQ/giphy-downsized-large.gif" width="600" height="300"/>
+  </div>
 
 
 - 🔭 I’m currently working on ...
