@@ -7,7 +7,7 @@
       <a href="https://www.gmail.com/in/zhangarach-keldibekov/">
         <img src="https://img.shields.io/badge/Gmail-red?style=for-the- badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
       </a>
-      <a href="https://www.telegram.com/in/zhangarach-keldibekov/">
+      <a href="https://t.me/Zhangarach">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the- badge&logo=telegram&logoColor=white" alt="Gmail Badge"/>
       </a>
     </div>
