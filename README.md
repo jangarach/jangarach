@@ -20,11 +20,11 @@
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyrgyzstan 🇰🇬.
 
-- :telescope: I’m working developing, testing, and maintaining enterprise software applications
+- :telescope: I’m developing, testing, and maintaining enterprise software applications
 
 - :seedling: Exploring Technical Content Writing
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles or I sit and just smile
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles or I sit and just smile :)
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhangarach-keldibekov/)
 
