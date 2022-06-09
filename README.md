@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyrgyzstan 🇰🇬.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyrgyzstan 🇰🇬
 
 - :telescope: I’m developing, testing, and maintaining enterprise software applications
 
