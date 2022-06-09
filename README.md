@@ -26,7 +26,7 @@
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyrgyzstan 🇰🇬
 
-- :telescope: I’m developing, testing, and maintaining enterprise software applications
+- :telescope: I’m developing, testing and maintaining enterprise software applications
 
 - :seedling: Exploring Technical Content Writing
 
