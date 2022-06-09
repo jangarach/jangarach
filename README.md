@@ -4,6 +4,12 @@
       <a href="https://www.linkedin.com/in/zhangarach-keldibekov/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the- badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
+      <a href="https://www.gmail.com/in/zhangarach-keldibekov/">
+        <img src="https://img.shields.io/badge/Gmail-red?style=for-the- badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+      </a>
+      <a href="https://www.telegram.com/in/zhangarach-keldibekov/">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the- badge&logo=telegram&logoColor=white" alt="Gmail Badge"/>
+      </a>
     </div>
   <img src="https://komarev.com/ghpvc/?username=jangarach&style=flat-square&color=blue" alt=""/>
 <h1>
